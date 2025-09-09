@@ -1,0 +1,5 @@
+version: 1.2
+workflows:
+  - name: 1st-workflow
+    subclass: CWL
+    primaryDescriptorPath: /1st-workflow.cwl
